@@ -1,0 +1,14 @@
+Anaconda
+Atom
+Bootstrap
+Command Prompt
+CSS
+Django
+HTML/HTML5
+JavaScript
+jQuery
+Python
+PythonAnywhere
+SQLite
+VsCode
+Windows
