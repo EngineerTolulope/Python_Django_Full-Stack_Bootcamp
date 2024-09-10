@@ -9,6 +9,7 @@ JavaScript
 jQuery
 Python
 PythonAnywhere
+REST APIs
 SQLite
 VsCode
 Windows
