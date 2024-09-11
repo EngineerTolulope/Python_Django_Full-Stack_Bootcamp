@@ -21,7 +21,7 @@ The bootcamp included the following key areas:
 
 By completing this bootcamp, I have developed proficiency in:
 
-- **Front-End Technologies**: HTML5, CSS3, JavaScript, jQuery, and Bootstrap
+- **Front-End Technologies**: HTML, CSS, JavaScript, jQuery, and Bootstrap
 - **Back-End Technologies**: Python and Django
 - **Web Development Techniques**: Building and deploying dynamic web applications
 
@@ -41,7 +41,6 @@ I have successfully completed the Python and Django Full Stack Web Developer Boo
 
 Feel free to connect with me or reach out if you have any questions:
 
-- **Email**: Eng.Tolulope@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/engineertolulope/
 ---
 Thank you for visiting my repository! I hope you find the resources and projects useful. If you have any questions or need further assistance, don't hesitate to contact me.
